@@ -1,4 +1,4 @@
-## Neonite V2
+## Fortnite.dev v2
 
 Fortnite lobby emulator with much customization options
 
