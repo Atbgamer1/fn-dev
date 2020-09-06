@@ -1,5 +1,5 @@
 {
-  "name": "neonitev2",
+  "name": "FN.programs",
   "version": "1.1.0",
   "description": "Fortnite lobby emulator with much customization options based on express/electron js",
   "main": "app.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kem0o/neonite.git"
+    "url": "https://github.com/Atbgamer1/fn-dev"
   },
   "author": "kemo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kem0o/neonite/issues"
+    "url": "https://github.com/Atbgamer1/fn-dev"
   },
-  "homepage": "https://github.com/kem0o/neonite#readme"
+  "homepage": "https://github.com/Atbgamer1/fn-dev"
 }
