@@ -47,8 +47,8 @@ module.exports = (app) => {
                             hidden: false,
                             _type: 'CommonUI Simple Message Base',
                             subgame: 'br',
-                            title: "Fortnite.Dev V2",
-                            body: "Made by kemo (@xkem0x).\nDiscord: https://discord.gg/DJ6VUmD",
+                            title: "Fn.programs",
+                            body: "Made by ATB gamer (@aTb GAMER).\nDiscord: not yet",
                             spotlight: true
                         }
                     ]
