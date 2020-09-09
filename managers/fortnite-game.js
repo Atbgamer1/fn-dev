@@ -10,19 +10,19 @@ module.exports = (app) => {
                     motds: [
                         {
                             entryType: "Website",
-                            image: "https://cdn.discordapp.com/attachments/703974059121049720/715300713995042877/Fornite1920x1080.jpg",
-                            tileImage: "https://cdn.discordapp.com/attachments/703974059121049720/715300717837156362/FortniteMidLogo.jpg",
+                            image: "https://cdn.discordapp.com/attachments/598593211195195393/753148712443838504/InkedFortniteMidLogo_LI.jpg",
+                            tileImage: "https://cdn.discordapp.com/attachments/598593211195195393/753148712443838504/InkedFortniteMidLogo_LI.jpg",
                             hidden: false,
-                            tabTitleOverride: "FORTNITE.DEV V2",
+                            tabTitleOverride: "FN.Programs",
                             _type: "CommonUI Simple Message MOTD",
-                            title: "Welcome To Fortnite.Dev",
-                            body: "Made by Kemo (@xkem0x). If you have any bugs, you can join our Discord by clicking the button below.",
+                            title: "Welcome To FNprograms",
+                            body: "Made by atb gamer (@Atb gamer). If you have any bugs, you can join our Discord by clicking the button below.",
                             videoStreamingEnabled: false,
                             sortingPriority: 20,
                             id: "Fortnite-Dev-Welcome",
                             videoFullscreen: false,
                             spotlight: false,
-                            websiteURL: "https://discord.gg/DJ6VUmD",
+                            websiteURL: "not yet",
                             websiteButtonText: "Join our Discord!"
                         }
                     ]
